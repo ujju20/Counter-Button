@@ -1,0 +1,47 @@
+body{
+    background-color:bisque
+}
+
+h1{
+    text-align: center;
+    margin: 50px;
+    font-size: 60px;
+    color: palevioletred;
+}
+.btn{
+    width: 300px;
+    height: 70px;
+    font-size: 40px;
+    background-color:aquamarine;
+    color:blue;
+    margin:50px;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+.btn:hover{
+    color:white;
+    background-color:blue
+}
+.count-text{
+    margin: 50px;
+    font-size:50px;
+    color:blueviolet;
+}
+.resetbtn{
+    width: 150px;
+    height: 40px;
+    font-size: 17px;
+    background-color:aqua;
+    color:blue;
+    margin:50px;
+    border-radius: 20px;
+}
+.resetbtn:hover{
+    color:white;
+    background-color:blue
+}
+footer{
+    font-size:25px;
+    margin:50px;
+}
